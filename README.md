@@ -164,3 +164,6 @@ Volume em Estoque Atual	Soma dos valores presentes em estoque
 Retorno Realizado	Valor recebido / valor cedido
 Tempo Médio até a Baixa	Média de dias entre aquisição e liquidação
 Aging dos Recebíveis	Classificação por faixas de atraso (0 a 90+)
+
+<img width="838" alt="matplotlib" src="https://github.com/user-attachments/assets/48148f36-4414-41a3-a16b-2a84f3ed5306" />
+
